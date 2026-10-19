@@ -1,0 +1,5908 @@
+[
+    {
+        "quid": 1000000,
+        "question": "When did the al-Shabaab insurgency use unconventional violence against Muslims in the United Kingdom?",
+        "answers": [
+            "2015-06-20"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000001,
+        "question": "To whom did Nicos Anastasiades make his last appeal before the Greek Prime Minister?",
+        "answers": [
+            "Cabinet / Council of Ministers / Advisors (Cyprus)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000002,
+        "question": "To whom did John Dramani Mahama make an appeal after 2010?",
+        "answers": [
+            "UN Security Council",
+            "Citizen (United Kingdom)",
+            "Religion (Ghana)",
+            "Employee (Ghana)",
+            "Government (South Africa)",
+            "Other Authorities / Officials (Ghana)",
+            "Citizen (Nigeria)",
+            "Bank (Ghana)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000003,
+        "question": "Who praised the royal administration of Saudi Arabia before October 2006?",
+        "answers": [
+            "Yemen",
+            "Mahmoud Abbas",
+            "Business (Jordan)",
+            "Shura Council",
+            "Shaukat Aziz",
+            "Pervez Musharraf",
+            "Ali Abdullah Saleh"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000004,
+        "question": "Who wanted to cooperate with the citizens of Brazil in 2005?",
+        "answers": [
+            "Head of Government (Brazil)",
+            "Luiz Gushiken",
+            "José Dirceu de Oliveira e Silva",
+            "Ministry (Brazil)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000005,
+        "question": "Which country was the last to accuse the UN security council before the Military Personnel of Canada did?",
+        "answers": [
+            "Eritrea"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000006,
+        "question": "Before 7 October 2007, with whom did the Prime Minister of Bangladesh declare his intention to cooperate?",
+        "answers": [
+            "Citizen (Bangladesh)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000007,
+        "question": "Which year did John Garang praise Sudan People's Liberation Army?",
+        "answers": [
+            "2005"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000008,
+        "question": "At what time did the Sudanese envoy express his intention to negotiate with the UN Mission in Sudan?",
+        "answers": [
+            "2010-02-16"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000009,
+        "question": "In what year did the Sudanese Ministry of Foreign Affairs last express optimism about the Government of Sudan?",
+        "answers": [
+            "2006"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000010,
+        "question": "Who used unconventional violence against the Military Personnel - Special of Afghanistan in 2015-06?",
+        "answers": [
+            "Armed Rebel (Afghanistan)",
+            "Attacker (Afghanistan)",
+            "Militant (Taliban)",
+            "Combatant (Taliban)",
+            "Insurgent (Afghanistan)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000011,
+        "question": "In which year did the attacker of Poland use unconventional violence against the employees of Poland?",
+        "answers": [
+            "2010"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000012,
+        "question": "Who asked for the government of Sudan in 2010?",
+        "answers": [
+            "Armed Separatist (Sudan People's Liberation Movement)",
+            "Sudan",
+            "Malik Agar",
+            "Citizen (Sudan)",
+            "Ministry (Sudan)",
+            "Human Rights Watch",
+            "France",
+            "Daniel Arap Moi"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000013,
+        "question": "In which month did the militant of Taliban praise the government of Pakistan for the first time?",
+        "answers": [
+            "2007-03"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000014,
+        "question": "Who wanted to negotiate with the Prime Minister of Portugal on 28 September 2007?",
+        "answers": [
+            "Mahmoud Abbas"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000015,
+        "question": "Before Apr 11th, 2014, who did the Farm Worker of Nigeria request for?",
+        "answers": [
+            "Government (Nigeria)",
+            "Other Authorities / Officials (Nigeria)",
+            "Head of Government (Nigeria)",
+            "Ibrahim Hassan Dankwambo"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000016,
+        "question": "On 12 March 2012, who wanted to negotiate with South Korea?",
+        "answers": [
+            "China",
+            "Barack Obama"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000017,
+        "question": "Who was the first to appeal for the indigenous people of Kenya, after the East African Community?",
+        "answers": [
+            "Mwai Kibaki"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000018,
+        "question": "Who was last threatened by Benjamin Netanyahu before the Middle East?",
+        "answers": [
+            "Iran"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000019,
+        "question": "Who expressed the intention to negotiate with Jakaya Mrisho Kikwete after 3 November 2006?",
+        "answers": [
+            "Citizen (Tanzania)",
+            "Abdullah Gül",
+            "Tanzania",
+            "Xi Jinping",
+            "Mwai Kibaki",
+            "Royal Administration (Tanzania)",
+            "Head of Government (Ghana)",
+            "Movement for Democratic Change",
+            "Citizen (International)",
+            "Barack Obama",
+            "Roh Moo Hyun"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000020,
+        "question": "When did the Iraqi party member praise Mahmoud Ahmadinejad?",
+        "answers": [
+            "2008-03-01"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000021,
+        "question": "After Mallam Isa Yuguda, with whom did USAID first formally sign an agreement?",
+        "answers": [
+            "Ethiopia"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000022,
+        "question": "Who used small arms and light weapons to fight the Philippine Thief on 26 July 2008?",
+        "answers": [
+            "Police (Philippines)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000023,
+        "question": "When was the last time the Royal Administration of Saudi Arabia made a request to Abdel Fattah Al-Sisi?",
+        "answers": [
+            "2015-07-31"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000024,
+        "question": "Before Muhammadu Buhari, to whom did the Nigerian scholar make the last denunciation?",
+        "answers": [
+            "Citizen (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000025,
+        "question": "With whom did Federica Mogherini announce her intention to negotiate after 7 May 2015?",
+        "answers": [
+            "Middle East",
+            "France",
+            "Mahmoud Abbas",
+            "Benjamin Netanyahu",
+            "Arseniy Yatsenyuk",
+            "Iran",
+            "Cabinet / Council of Ministers / Advisors (United States)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000026,
+        "question": "Who praised international governmental organisations on 19 January 2009?",
+        "answers": [
+            "Abhisit Vejjajiva"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000027,
+        "question": "To whom did the Iranian ministry first address a request after the Indian industry?",
+        "answers": [
+            "Iran"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000028,
+        "question": "On 21 July 2011, who criticised the media in Ecuador?",
+        "answers": [
+            "Rafael Correa"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000029,
+        "question": "After the people of Colombia, who suffered from the unconventional violence of the United Self-Defence Forces of Colombia?",
+        "answers": [
+            "Guerrilla (Colombia)",
+            "Conservative Party (Colombia)",
+            "Colombia"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000030,
+        "question": "After the head of government of Ukraine, which country first hosted the head of government of Germany's visit from the head of government of Germany?",
+        "answers": [
+            "Tanzania"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000031,
+        "question": "In which year did the Taiwanese Ministry of Education last express its intention to negotiate with the Taiwanese businessman?",
+        "answers": [
+            "2012"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000032,
+        "question": "Which country received the visit from Yang Hyong Sop after 2006?",
+        "answers": [
+            "Cambodia",
+            "South Africa",
+            "China",
+            "Angola"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000033,
+        "question": "After the other authorities and officials of Zimbabwe, who did Human Rights Watch request for first?",
+        "answers": [
+            "Mahmoud Abbas"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000034,
+        "question": "In 2015, who was the first to make Abu Sayyaf suffer from conventional military forces?",
+        "answers": [
+            "Military Personnel - Special (Philippines)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000035,
+        "question": "Who wanted to negotiate with the Romanian Senate in December 2008?",
+        "answers": [
+            "Legislature (Romania)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000036,
+        "question": "Who praised the government of Nigeria on 27 September 2012?",
+        "answers": [
+            "Ministry (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000037,
+        "question": "In what year did José Bové visit Nathalie Kosciusko-Morizet?",
+        "answers": [
+            "2007"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000038,
+        "question": "Who wanted to negotiate with Evo Morales first, after the citizens of Brazil?",
+        "answers": [
+            "Cabinet / Council of Ministers / Advisors (United States)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000039,
+        "question": "Who negotiated with the Prime Minister of Pakistan on 21 October 2013?",
+        "answers": [
+            "Royal Administration (Saudi Arabia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000040,
+        "question": "Who returned people to the citizens of Australia on 2 November 2012?",
+        "answers": [
+            "Police (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000041,
+        "question": "Could you tell me the exact month when the High Commission for Refugees made an appeal to the citizens of Zambia?",
+        "answers": [
+            "2007-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000042,
+        "question": "When did Bala Abdulkadir Mohammed last threaten the citizens of Nigeria?",
+        "answers": [
+            "2013-03-19"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000043,
+        "question": "To whom did Malawi make an appeal before 2012-06-8?",
+        "answers": [
+            "Ethiopia",
+            "South Africa"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000044,
+        "question": "In which year did the Democratic Party threaten the Ministry of Justice of South Korea?",
+        "answers": [
+            "2013"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000045,
+        "question": "After Antony Harold Curties Tony Windsor, to whom did the People Associated with the Opposition of Australia make their first appeal?",
+        "answers": [
+            "Lawyer/Attorney (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000046,
+        "question": "Who made the criminal of Somalia suffer from conventional military forces after Jun, 2011?",
+        "answers": [
+            "Al-Shabaab",
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000047,
+        "question": "Who would wish to visit South Africa first after Francis Muthaura did?",
+        "answers": [
+            "Court Judge (Sierra Leone)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000048,
+        "question": "Which country was the last one that the Foreign Affairs of France rejected?",
+        "answers": [
+            "Iran"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000049,
+        "question": "Which country made pessimistic comments about Vietnam on 7 April 2009?",
+        "answers": [
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000050,
+        "question": "Who was the first to blame Gerhard Schröder?",
+        "answers": [
+            "Angela Merkel"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000051,
+        "question": "Who did the European Central Bank condemn last, before the German government?",
+        "answers": [
+            "Romania"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000052,
+        "question": "Who attacked the police of Saudi Arabia with small arms and light weapons before 2005-04?",
+        "answers": [
+            "Armed Gang (Saudi Arabia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000053,
+        "question": "After Transparency International, who requested for the Government of Germany first?",
+        "answers": [
+            "Mwai Kibaki"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000054,
+        "question": "In which year did the Foreign Office of India make an appeal to the Prime Minister of India?",
+        "answers": [
+            "2005"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000055,
+        "question": "Who made the first request for the People Associated with the Opposition of Bangladesh?",
+        "answers": [
+            "Head of Government (Bangladesh)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000056,
+        "question": "Who made the last negative comments about Al-Shabaab before the Military Personnel - Special of Kenya?",
+        "answers": [
+            "Military (Burundi)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000057,
+        "question": "At what time did the Business of Bahrain accuse the Media Personnel of International?",
+        "answers": [
+            "2012-03-06"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000058,
+        "question": "In which month did the Lawyer/Attorney of Germany investigate Austrian Airlines?",
+        "answers": [
+            "2008-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000059,
+        "question": "Which country would like to negotiate with South Korea on 15 April 2011?",
+        "answers": [
+            "China",
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000060,
+        "question": "Who made pessimistic remarks about Abhisit Vejjajiva before Apr, 2010?",
+        "answers": [
+            "Citizen (Thailand)",
+            "Cabinet / Council of Ministers / Advisors (Thailand)",
+            "Banharn Silpa-archa",
+            "Jatuporn Prompan",
+            "Protester (Thailand)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000061,
+        "question": "In which year did the international media personnel express their intention to meet with Aceh?",
+        "answers": [
+            "2005"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000062,
+        "question": "Who condemned the Cabinet Council of Ministers Advisors of Greece in 2007-08?",
+        "answers": [
+            "Georgios Papandreou"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000063,
+        "question": "Before Felipe Quispe, who was last praised by Evo Morales?",
+        "answers": [
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000064,
+        "question": "Before the men of the Holy See Vatican City State, who last expressed the intention to meet with Benedict XVI?",
+        "answers": [
+            "Mahmoud Abbas"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000065,
+        "question": "With whom did Vincent C. Siew want to negotiate after November 2007?",
+        "answers": [
+            "Mswati III",
+            "Yu Zhengsheng",
+            "Japan",
+            "Businessperson (Taiwan)",
+            "Xi Jinping",
+            "Business (Taiwan)",
+            "China",
+            "Swaziland"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000066,
+        "question": "Which country did the South African National Defence Force last investigate?",
+        "answers": [
+            "South Africa"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000067,
+        "question": "In April 2008, who made a request to the government of Sudan?",
+        "answers": [
+            "Displaced Families (Sudan)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000068,
+        "question": "Mahmoud Ahmadinejad was first rejected by who after the formation of Colombia?",
+        "answers": [
+            "Ministry (Iran)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000069,
+        "question": "After 2008, who did the High Commission for Refugees want to meet with?",
+        "answers": [
+            "Colombia",
+            "South Korea",
+            "Ethiopia",
+            "Iran",
+            "Alexis Tsipras",
+            "Japan",
+            "Romania",
+            "Tanzania"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000070,
+        "question": "With whom did Tzipi Livni telephone the Egyptian Foreign Ministry in the same year?",
+        "answers": [
+            "Associated Press",
+            "Abdullah Gül"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000071,
+        "question": "When did Zillur Rahman praise Abdullah Gül?",
+        "answers": [
+            "2010-02-12"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000072,
+        "question": "Who wanted to establish diplomatic cooperation with the Republic of South Ossetia in the same month of Kazakhstan?",
+        "answers": [
+            "Government (Georgia)",
+            "Boris Vyacheslavovich Gryzlov",
+            "Foreign Affairs (Belarus)",
+            "Dmitry Anatolyevich Medvedev"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000073,
+        "question": "Who was the first to visit Abdullah Gül after Hilmi Özkök?",
+        "answers": [
+            "Foreign Affairs (Israel)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000074,
+        "question": "Who was the last to make a request to Nguyen Xuan Phuc?",
+        "answers": [
+            "Ministry (Vietnam)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000075,
+        "question": "Who was the last to criticise the Grand National Party?",
+        "answers": [
+            "Democratic Party"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000076,
+        "question": "In which year did the lawyer of Argentina make a request to Cristina Fernández de Kirchner?",
+        "answers": [
+            "2014"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000077,
+        "question": "Which country did Eritrea first want to cooperate with?",
+        "answers": [
+            "Ethiopia"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000078,
+        "question": "Who did the Ijaw Youth Council condemn after the Nigerian government?",
+        "answers": [
+            "Royal Administration (Nigeria)",
+            "Citizen (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000079,
+        "question": "In Jul, 2006, who accused Israeli Defense Forces?",
+        "answers": [
+            "Mahmoud Abbas"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000080,
+        "question": "Who was the first to visit Angola in 2011?",
+        "answers": [
+            "Foreign Affairs (Namibia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000081,
+        "question": "In which year did Mikhail Yefimovich Fradkov have the first telephone conversation with Syarhey Sidorski?",
+        "answers": [
+            "2006"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000082,
+        "question": "When did the German government first express its intention to establish diplomatic cooperation with the citizens of Greece?",
+        "answers": [
+            "2015-09-21"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000083,
+        "question": "On 5 August 2005, which country praised the lawmakers of Colombia?",
+        "answers": [
+            "Colombia"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000084,
+        "question": "When did Sali Berisha first condemn the other authorities and officials of Serbia?",
+        "answers": [
+            "2008-06-26"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000085,
+        "question": "To whom did the Australian criminal first threaten?",
+        "answers": [
+            "Citizen (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000086,
+        "question": "Who would wish to visit Vietnam on the same day of the Media Personnel of China?",
+        "answers": [
+            "Fientje Moerman"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000087,
+        "question": "After Sudan, who was criticised by the Cabinet Council of Ministers Advisors of the United States?",
+        "answers": [
+            "Benjamin Netanyahu",
+            "Armed Rebel (Yemen)",
+            "China",
+            "Al Jazeera"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000088,
+        "question": "With whom did Catherine Ashton want to negotiate before 12 February 2010?",
+        "answers": [
+            "Middle East",
+            "South Korea",
+            "Finance / Economy / Commerce / Trade Ministry (South Africa)",
+            "Ministry (South Korea)",
+            "Envoy (United States)",
+            "Kazakhstan",
+            "Javier Solana",
+            "Tony Blair",
+            "Citizen (Bulgaria)",
+            "Finance / Economy / Commerce / Trade Ministry (Botswana)",
+            "China",
+            "Ronald Kirk"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000089,
+        "question": "With whom did the National Action Party last express an interest in cooperating before Manlio Fabio Beltrones?",
+        "answers": [
+            "Mexico"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000090,
+        "question": "Who praised the Malian military before the Armed Rebel of Mali?",
+        "answers": [
+            "Foreign Affairs (France)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000091,
+        "question": "In 2009-03, who accused international governmental organisations?",
+        "answers": [
+            "Al Jazeera"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000092,
+        "question": "On 25 May 2012, which country offered cooperation to Eritrea?",
+        "answers": [
+            "Sudan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000093,
+        "question": "In which month did the South Korean police release Heather Cho for the first time?",
+        "answers": [
+            "2015-05"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000094,
+        "question": "Who criticised Ma Ying Jeou in 2006?",
+        "answers": [
+            "Kuomintang",
+            "Party Member (Taiwan)",
+            "Lien Chan"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000095,
+        "question": "On 15 August 2014, who used conventional military force against the armed rebels of Ukraine?",
+        "answers": [
+            "Military (Ukraine)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000096,
+        "question": "In August 2009, who wanted to meet with Angola?",
+        "answers": [
+            "South Africa",
+            "Human Rights Watch",
+            "Cabinet / Council of Ministers / Advisors (United States)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000097,
+        "question": "Could you tell me the exact month when Manuel Chang accused the police of Mozambique?",
+        "answers": [
+            "2005-04"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000098,
+        "question": "On 30 July 2005, who praised the Islamic preacher in Jordan?",
+        "answers": [
+            "Islamic Preacher (Yemen)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000099,
+        "question": "Who was Seyoum Mesfin negotiating with before Abdullah Gül?",
+        "answers": [
+            "Foreign Affairs (Ethiopia)",
+            "Head of Government (Ethiopia)",
+            "Military Personnel (France)",
+            "Government Official (United Kingdom)",
+            "Sudan",
+            "Congress (United States)",
+            "Ethiopia",
+            "Other Authorities / Officials (Turkey)",
+            "Foreign Affairs (Italy)",
+            "Royal Administration (Saudi Arabia)",
+            "Dahir Riyale Kahin"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000100,
+        "question": "Who wanted to cooperate with the Pakistani government in March 2006?",
+        "answers": [
+            "High Commission for Refugees"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000101,
+        "question": "Could you tell me the exact month in which Yerlan Idrisov negotiated for the first time with the Council of Ministers of the United States?",
+        "answers": [
+            "2012-10"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000102,
+        "question": "Who was the last person to visit Benedict XVI before Dmitry Anatolyevich Medvedev?",
+        "answers": [
+            "Head of Government (Colombia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000103,
+        "question": "Which country would like to cooperate with South Korea on 27 May 2009?",
+        "answers": [
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000104,
+        "question": "Who was praised by the Australian media after Chris Bowen?",
+        "answers": [
+            "Ian Macdonald"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000105,
+        "question": "Who did the Men of Lebanon use unconventional violence against last before Abbas Medlej?",
+        "answers": [
+            "Armed Rebel (Lebanon)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000106,
+        "question": "After the governor of Yemen, with whom did Agence France-Presse first have a telephone conversation?",
+        "answers": [
+            "Zine El Abidine Ben Ali"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000108,
+        "question": "In which month did the judge of the court of the United Kingdom last investigate the party member of the United Kingdom?",
+        "answers": [
+            "2014-05"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000109,
+        "question": "After Gabriel Tang, who was the first person against whom the Sudan People's Liberation Army used conventional military force?",
+        "answers": [
+            "Sudan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000110,
+        "question": "In what year did Zurab Nogaideli declare his intention to negotiate with the member of the Legislative Assembly of Kazakhstan?",
+        "answers": [
+            "2005"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000111,
+        "question": "To whom did the citizens of the United Kingdom make an appeal on the same month as the Movement for Democratic Change?",
+        "answers": [
+            "Scottish Government"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000112,
+        "question": "In which year did the Education of Argentina reject Cristina Fernández de Kirchner?",
+        "answers": [
+            "2010"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000113,
+        "question": "When did the Iranian Ministry of Education accuse the scholar of the United States?",
+        "answers": [
+            "2007-09-07"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000114,
+        "question": "In which year did Bukola Saraki pay a visit to the Head of Government of Nigeria?",
+        "answers": [
+            "2014"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000115,
+        "question": "In Sep 2014, who wanted to negotiate with Tanzania?",
+        "answers": [
+            "John Pombe Magufuli",
+            "Citizen (Tanzania)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000116,
+        "question": "On 30 November 2012, which country wanted to participate in diplomatic cooperation with South Sudan?",
+        "answers": [
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000117,
+        "question": "Which country was the last to suffer from the unconventional violence of the Yemeni rebels?",
+        "answers": [
+            "Yemen"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000118,
+        "question": "On 4 August 2013, who paid a visit to the Cabinet Council of Ministers Advisors of the United States?",
+        "answers": [
+            "Abdel Fattah Al-Sisi"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000119,
+        "question": "After the People Associated with the Opposition of Australia, to whom did the Women of Australia appeal first?",
+        "answers": [
+            "Julia Gillard"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000120,
+        "question": "When did Sali Berisha praise Wen Jiabao?",
+        "answers": [
+            "2009-04-23"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000121,
+        "question": "After 21 December 2015, who made an appeal to the citizens of Nigeria?",
+        "answers": [
+            "Bukola Saraki",
+            "Muhammadu Buhari",
+            "Head of Government (Nigeria)",
+            "Other Authorities / Officials (Nigeria)",
+            "Member of Legislative (Govt) (Nigeria)",
+            "John Odigie-Oyegun",
+            "Alhaji Lai Mohammed",
+            "Oluṣẹgun Ọbasanjọ",
+            "Government (Nigeria)",
+            "Ministry (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000122,
+        "question": "Who had the last telephone conversation with Chuck Hagel before the Ministry of Defence and Security of Poland?",
+        "answers": [
+            "Sergey Kuzhugetovich Shoygu"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000123,
+        "question": "When did Federica Mogherini first express her intention to negotiate with the Ministry of Foreign Affairs of South Korea?",
+        "answers": [
+            "2015-05-01"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000124,
+        "question": "After Associated Press, who did Tony Blair negotiate with first?",
+        "answers": [
+            "Head of Government (Cyprus)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000125,
+        "question": "Who first hosted the visit from Ricardo Alarcón de Quesada?",
+        "answers": [
+            "Legislature (Panama)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000126,
+        "question": "When did the Aam Aadmi Party first express its intention to negotiate with Harish Rawat?",
+        "answers": [
+            "2015-12-13"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000127,
+        "question": "On 30 June 2005, who wanted to engage in diplomatic cooperation with the Lebanese military?",
+        "answers": [
+            "Nabih Berri"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000128,
+        "question": "Which year did the Senate of Argentina give a criticism to Cristina Fernández de Kirchner?",
+        "answers": [
+            "2009"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000129,
+        "question": "Who was involved in the negotiations of the International Monetary Fund before November 2009?",
+        "answers": [
+            "Other Authorities / Officials (Romania)",
+            "Rafael Correa",
+            "Government (Nigeria)",
+            "Government (Pakistan)",
+            "Alberto Fernández",
+            "Japan",
+            "Romania",
+            "Kemal Unakitan",
+            "China",
+            "Iraq"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000130,
+        "question": "To whom did the Prime Minister of India make the first request after the Ministry of Law and Justice?",
+        "answers": [
+            "South Korea"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000131,
+        "question": "When was the last time the Royal Administration of Saudi Arabia made an appeal to Mahmoud Ahmadinejad?",
+        "answers": [
+            "2012-08-06"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000132,
+        "question": "In which year did Walter Riester last make a request to the government of Germany?",
+        "answers": [
+            "2008"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000133,
+        "question": "With whom did the government of Pakistan first express an interest in cooperation?",
+        "answers": [
+            "High Commission for Refugees"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000134,
+        "question": "When did the South Korean Ministry of Foreign Affairs issue a condemnation of the indigenous people of South Korea?",
+        "answers": [
+            "2012-03-06"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000135,
+        "question": "On 3 July 2010, who praised the Congress of the United States?",
+        "answers": [
+            "Abhisit Vejjajiva"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000136,
+        "question": "On 7 October 2005, who wanted to establish diplomatic cooperation with Marek Borowski?",
+        "answers": [
+            "Aleksander Kwasniewski"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000137,
+        "question": "After the intellectual of Somalia, who engaged in negotiations with the Union of Islamic Courts?",
+        "answers": [
+            "Eritrea",
+            "Hawiye (ethnic)",
+            "Isaias Afewerki"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000138,
+        "question": "Before Umaru Musa Yar'Adua, who was the last to express pessimism about the Nigerian government?",
+        "answers": [
+            "Citizen (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000139,
+        "question": "After 6 January 2015, who had a telephone conversation with the Royal Administration of Saudi Arabia?",
+        "answers": [
+            "Haider Al-Abadi",
+            "Head of Government (Egypt)",
+            "Iraq",
+            "Abdel Fattah Al-Sisi"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000140,
+        "question": "On 19 December 2008, who expressed the intention to meet the citizens of Thailand?",
+        "answers": [
+            "Abhisit Vejjajiva"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000141,
+        "question": "In which month did the Cabinet Council of Ministers Advisors of the United States negotiate with the Head of Government of Kenya?",
+        "answers": [
+            "2012-08"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000142,
+        "question": "Who was the last person Mwai Kibaki wanted to meet before the Kenyan leader?",
+        "answers": [
+            "Ethiopia"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000143,
+        "question": "Who praised the veterans of Russia in November 2007?",
+        "answers": [
+            "Rashid Gumarovich Nurgaliyev"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000144,
+        "question": "In which year did Cristina Fernández de Kirchner last investigate the Business of Argentina?",
+        "answers": [
+            "2015"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000145,
+        "question": "When did the Mexican Labour Union last praise the Revolutionary Confederation of Workers and Peasants?",
+        "answers": [
+            "2006-06-28"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000146,
+        "question": "Who condemned Abhisit Vejjajiva in May 2010?",
+        "answers": [
+            "National United Front for Democracy Against Dictatorship",
+            "Thailand",
+            "Citizen (Thailand)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000147,
+        "question": "When did the Assemblies of Slovenia last express their intention to meet with Romania?",
+        "answers": [
+            "2006-03-08"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000148,
+        "question": "In which month did Mahmoud Ahmadinejad negotiate for the first time with Dmitry Anatolyevich Medvedev?",
+        "answers": [
+            "2008-07"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000149,
+        "question": "Who last would wish to visit UAE Armed Forces before Gerhard Schröder did?",
+        "answers": [
+            "Government (Qatar)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000150,
+        "question": "In which year did Benjamin Netanyahu support the German government?",
+        "answers": [
+            "2011"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000151,
+        "question": "Who was the first to meet the citizens of Saudi Arabia?",
+        "answers": [
+            "Shaukat Aziz"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000152,
+        "question": "Who did National Liberal Party appeal for before 2010-05-14?",
+        "answers": [
+            "Ministry (Romania)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000153,
+        "question": "After Angela Merkel, who wanted to be the first to participate in diplomatic cooperation with Lee Myung Bak?",
+        "answers": [
+            "Yoshihiko Noda"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000154,
+        "question": "After November 2014, who made an appeal to Tsai Ing-wen?",
+        "answers": [
+            "China",
+            "Ma Ying Jeou"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000155,
+        "question": "After 5 April 2011, to whom did the Iraqi legislature appeal?",
+        "answers": [
+            "Haider Al-Abadi",
+            "Iraq",
+            "Member of Parliament (Iraq)",
+            "Shura Council"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000156,
+        "question": "Who signed formal agreements with the French Foreign Ministry last, before Patricio Rivera?",
+        "answers": [
+            "Adji Otheth Ayassor"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000157,
+        "question": "On 16 November 2008, who asked for Barack Obama?",
+        "answers": [
+            "Tony Blair"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000158,
+        "question": "Who made an appeal to the citizens of Nigeria on 20 March 2014?",
+        "answers": [
+            "Ministry/Department of Technology (Nigeria)",
+            "Government (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000159,
+        "question": "Who did Ma Ying Jeou negotiate with before Dec, 2009?",
+        "answers": [
+            "China",
+            "Kuomintang",
+            "Lien Chan"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000160,
+        "question": "After Jan 2014, who hosted the visit of Evo Morales?",
+        "answers": [
+            "Iran",
+            "Angela Merkel",
+            "Bolivia",
+            "France",
+            "China",
+            "Cristina Fernández de Kirchner"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000161,
+        "question": "Before Labaran Maku, who was the last to appeal to the Nigerian ethnic group?",
+        "answers": [
+            "Emmanuel Eweta Uduaghan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000162,
+        "question": "Who did Abdul Kalam praise last, before Carlo Azeglio Ciampi?",
+        "answers": [
+            "Bhutan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000163,
+        "question": "Who was the first to ask for the activist from Thailand?",
+        "answers": [
+            "Abhisit Vejjajiva"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000164,
+        "question": "Who blamed the Government of Nigeria in Mar 5, 2009?",
+        "answers": [
+            "Citizen (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000165,
+        "question": "Who asked for the Thai protester before Anupong Paochinda?",
+        "answers": [
+            "Sondhi Limthongkul",
+            "Governor (Thailand)",
+            "Military Personnel (Thailand)",
+            "Citizen (Thailand)",
+            "Council for National Security"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000166,
+        "question": "Who blamed the Police of Uganda in 2007?",
+        "answers": [
+            "Citizen (Uganda)",
+            "Businessperson (Uganda)",
+            "Human Rights Watch",
+            "Daily Monitor",
+            "Inspector General (Uganda)",
+            "Democratic Party"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000167,
+        "question": "When did Philip Ruddock blame the Cabinet Council of Ministers Advisors of Australia?",
+        "answers": [
+            "2006-08-07"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000168,
+        "question": "When did the United States Human Rights Commission last praise the Dominican Republic?",
+        "answers": [
+            "2013-12-09"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000169,
+        "question": "In what year did Mikulas Dzurinda negotiate with Yuriy Yekhanurov?",
+        "answers": [
+            "2005"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000170,
+        "question": "Who accused the Governor of Thailand after December, 2009?",
+        "answers": [
+            "Member of Parliament (Thailand)",
+            "Party Member (Thailand)",
+            "Citizen (Thailand)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000171,
+        "question": "In which month did Shirin Ebadi denounce Mahmoud Ahmadinejad for the first time?",
+        "answers": [
+            "2009-06"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000172,
+        "question": "When did Boris Vyacheslavovich Gryzlov make a request to the Prime Minister of Ukraine?",
+        "answers": [
+            "2005-09-22"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000173,
+        "question": "Who made a request to the citizens of International after 19 August 2015?",
+        "answers": [
+            "Iran",
+            "Muhammadu Buhari",
+            "Xi Jinping",
+            "Anote Tong",
+            "Raheel Sharif",
+            "Head of Government (Germany)",
+            "High Commission for Refugees",
+            "Barack Obama",
+            "Head of Government (Kiribati)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000174,
+        "question": "After March 2011, who supported Rafael Correa?",
+        "answers": [
+            "Media Personnel (International)",
+            "Confederation of Indigenous Nationalities of Ecuador",
+            "Mahmoud Ahmadinejad",
+            "Government (Ecuador)",
+            "Court Judge (Ecuador)",
+            "Julian Paul Assange",
+            "Juan Carlos I"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000175,
+        "question": "Before 7 December 2006, who was accused by François Bozizé?",
+        "answers": [
+            "Citizen (Unidentified State Actor)",
+            "Government (Sudan)",
+            "Citizen (Sudan)",
+            "Ange-Félix Patassé",
+            "Sudan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000176,
+        "question": "In which month did the head of the Chilean government first speak optimistically about Vietnam?",
+        "answers": [
+            "2009-05"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000177,
+        "question": "Who was the first person investigated by the Belgian lawyer?",
+        "answers": [
+            "Citizen (Belgium)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000178,
+        "question": "Could you tell me the exact month when Cape Verde first expressed its intention to meet with South Africa?",
+        "answers": [
+            "2007-07"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000179,
+        "question": "In what year did the Lawyer/Attorney for Kenya first make a request to the Head of Government of Kenya?",
+        "answers": [
+            "2007"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000180,
+        "question": "Can you tell me the exact month in which Tony Blair first made an appeal to Northern Ireland?",
+        "answers": [
+            "2006-11"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000181,
+        "question": "Who was the last person Javier Solana wanted to negotiate with before the other Egyptian authorities and officials?",
+        "answers": [
+            "Iran"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000182,
+        "question": "Who was Mwai Kibaki negotiating with before 25 January 2007?",
+        "answers": [
+            "Ethiopia",
+            "Isaias Afewerki",
+            "Don McKinnon",
+            "Wen Jiabao"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000183,
+        "question": "Who visited the Straits Exchange Foundation in 2009?",
+        "answers": [
+            "Ma Ying Jeou"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000184,
+        "question": "Who praised the Prime Minister of Ukraine on 24 May 2007?",
+        "answers": [
+            "People Associated with the Opposition (Ukraine)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000185,
+        "question": "Who was praised by Javier Solana after Oct, 2008?",
+        "answers": [
+            "France",
+            "Military (Russia)",
+            "International Government Organizations",
+            "African Union",
+            "Sudan"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000186,
+        "question": "In which month did the citizens of the United Kingdom first use unconventional violence against the women of Pakistan?",
+        "answers": [
+            "2012-07"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000187,
+        "question": "Who negotiated with Benjamin Netanyahu on 10 November 2009?",
+        "answers": [
+            "Barack Obama",
+            "Christine Lagarde"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000188,
+        "question": "In what year did Portugal negotiate with Alexis Tsipras?",
+        "answers": [
+            "2015"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000189,
+        "question": "Who was the first to condemn the Governor of Kenya after the Businessman of Kenya?",
+        "answers": [
+            "Member of Legislative (Govt) (Kenya)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000190,
+        "question": "Which country did George Yeo want to meet in the same month as Vietnam?",
+        "answers": [
+            "Cambodia"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000191,
+        "question": "Who gave a condemnation to the police of Ukraine on 15 July 2008?",
+        "answers": [
+            "Ukranian Truth"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000192,
+        "question": "Could you tell me the specific month when did the Lawyer/Attorney of Kenya last accuse the Media of Africa?",
+        "answers": [
+            "2013-02"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000193,
+        "question": "Who was the last to visit South Korea before the Canadian Ministry of Finance, Economy, Trade and Industry?",
+        "answers": [
+            "Wendy Sherman"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000194,
+        "question": "Which country was last to praise the leader of Cyprus before the leader of Egypt?",
+        "answers": [
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000195,
+        "question": "In which month did Shaukat Aziz last express his intention to meet with the Royal Administration of Saudi Arabia?",
+        "answers": [
+            "2006-12"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000196,
+        "question": "In which month was Heng Swee Keat the first to praise Xi Jinping?",
+        "answers": [
+            "2015-11"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000197,
+        "question": "Who was the first to reject the citizens of Botswana?",
+        "answers": [
+            "Government (Botswana)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000198,
+        "question": "Against whom did the Russian military last use conventional military force before the Chechen fighters?",
+        "answers": [
+            "Armed Gang (Russia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000199,
+        "question": "Who visited South Korea on 28 June 2014?",
+        "answers": [
+            "China",
+            "Xi Jinping"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000200,
+        "question": "Who used conventional military force against the Moro National Liberation Front on 13 February 2005?",
+        "answers": [
+            "Military (Philippines)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000201,
+        "question": "When did AB Lithuanian Gas last sign an agreement with Gazprom?",
+        "answers": [
+            "2014-05-13"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000202,
+        "question": "Before the Prime Minister of Cyprus, who wanted to negotiate with the Prime Minister of India?",
+        "answers": [
+            "Mikhail Yefimovich Fradkov",
+            "Mahmoud Abbas",
+            "Prime Minister Qarase",
+            "Pervez Musharraf",
+            "Romania",
+            "Maumoon Abdul Gayoom",
+            "Governor (India)",
+            "Shivraj Patil",
+            "Sheikh Hamad bin Khalifa al-Thani",
+            "Foreign Affairs (India)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000203,
+        "question": "After the Muslim cleric of Somalia, against whom did the armed opposition of Somalia first use unconventional violence?",
+        "answers": [
+            "Businessperson (Somalia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000204,
+        "question": "When did the African Union make its first appeal to the citizens of Africa?",
+        "answers": [
+            "2007-09-13"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000205,
+        "question": "Before Leopoldo López, who did the citizens of Venezuela last support?",
+        "answers": [
+            "Guerrilla (Colombia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000206,
+        "question": "In which month did the police of South Korea release people to the citizens of North Korea?",
+        "answers": [
+            "2005-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000207,
+        "question": "Before Nov, year 2007, to whom did Abdullah Gül express the intention to participate in diplomatic cooperation?",
+        "answers": [
+            "Businessperson (Turkey)",
+            "Nasser Al-Kidwa"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000208,
+        "question": "Who used small arms and light weapons to attack Israeli forces in July 2006?",
+        "answers": [
+            "Armed Gang (Palestinian Territory, Occupied)",
+            "Military (Lebanon)",
+            "al-Aqsa Martyrs' Brigades"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000209,
+        "question": "Who negotiated with Islam Karimov in 2005?",
+        "answers": [
+            "Roh Moo Hyun",
+            "Zhang Deguang",
+            "Pervez Musharraf",
+            "Janez Susnik"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000210,
+        "question": "Who asked for Tzipi Livni before Barack Obama?",
+        "answers": [
+            "Benjamin Netanyahu",
+            "Shimon Peres",
+            "Javier Solana",
+            "Eli Yishai",
+            "Qatar"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000211,
+        "question": "In which month did the citizens of Greece last express optimism about the other authorities and officials of Turkey?",
+        "answers": [
+            "2007-01"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000212,
+        "question": "In what year did Barack Obama last praise the citizens of Tanzania?",
+        "answers": [
+            "2013"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000213,
+        "question": "In what year did Ashraf Ghani Ahmadzai visit Jens Stoltenberg?",
+        "answers": [
+            "2014"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000214,
+        "question": "Who did Mahmoud Ahmadinejad last praise before the Business of Iran?",
+        "answers": [
+            "Ministry (Iran)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000215,
+        "question": "In what year did the Afghan National Army last use small arms and light weapons to fight the attacker of Afghanistan?",
+        "answers": [
+            "2012"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000216,
+        "question": "In which year did Luis Beder Herrera visit the Ombudsman of Azerbaijan?",
+        "answers": [
+            "2008"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000217,
+        "question": "Before the employees of Saudi Arabia, who last had a telephone discussion with Associated Press?",
+        "answers": [
+            "Lawyer/Attorney (United Kingdom)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000218,
+        "question": "After the Member of Legislative of Govt United Kingdom, who first made an request to the muslims of United Kingdom?",
+        "answers": [
+            "Citizen (United Kingdom)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000219,
+        "question": "After the Actor of France, to whom did the UN Security Council first make an appeal?",
+        "answers": [
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000220,
+        "question": "In which year did the Member of Legislative of Govt of Occupied Palestinian Territory threaten Mahmoud Abbas?",
+        "answers": [
+            "2010"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000221,
+        "question": "In which month did the Men of Kenya use unconventional violence against Barclays PLC?",
+        "answers": [
+            "2007-05"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000223,
+        "question": "Who did the European Central Bank praise after the International Monetary Fund?",
+        "answers": [
+            "Bank (Greece)",
+            "Mario Monti",
+            "France"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000224,
+        "question": "Who suffered from the unconventional violence of the Murderer of Nigeria after 11 June 2012?",
+        "answers": [
+            "Citizen (Nigeria)",
+            "Government (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000225,
+        "question": "Before October 2007, with whom did the Dominican Republic sign an agreement?",
+        "answers": [
+            "Colombia",
+            "Guatemala",
+            "South Africa",
+            "Foreign Affairs (South Africa)",
+            "Congress (United States)",
+            "Mexico"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000226,
+        "question": "Who did the Association of Southeast Asian Nations make optimistic comments about before 22 February 2007?",
+        "answers": [
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000227,
+        "question": "In which year did Tzipi Livni last negotiate with the French Foreign Ministry?",
+        "answers": [
+            "2006"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000228,
+        "question": "With whom did the Lawyer/Attorney of Australia last negotiate?",
+        "answers": [
+            "Royal Administration (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000229,
+        "question": "Could you tell me the exact month when the Central Reserve Police Force first used conventional military force against the military personnel of India?",
+        "answers": [
+            "2014-02"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000230,
+        "question": "After Juan Somavia, who was the first to appeal to the other authorities and officials of Egypt?",
+        "answers": [
+            "Catherine Ashton"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000231,
+        "question": "Before Juha Sipila, who was the last to negotiate with Nabih Berri?",
+        "answers": [
+            "Staffan de Mistura"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000232,
+        "question": "Before the women of Australia, who was the last to suffer the unconventional violence of the children of New Zealand?",
+        "answers": [
+            "Police (New Zealand)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000233,
+        "question": "Who was the first to visit the Middle East in 2008?",
+        "answers": [
+            "Frank Bainimarama"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000234,
+        "question": "On 12 March 2007, which country started negotiations with South Korea?",
+        "answers": [
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000235,
+        "question": "In which month did the Shura Council praise Yemen?",
+        "answers": [
+            "2013-02"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000236,
+        "question": "Before 7 April 2009, who did the military of the Philippines blame?",
+        "answers": [
+            "Moro National Liberation Front",
+            "Abu Sayyaf",
+            "Settler (Philippines)",
+            "Military (Philippines)",
+            "Moro Islamic Liberation Front"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000237,
+        "question": "In which month did the Democratic Party negotiate with Bogdan Klich for the first time?",
+        "answers": [
+            "2008-03"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000238,
+        "question": "On 14 July 2005, which country praised South Korea?",
+        "answers": [
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000239,
+        "question": "Before the Ministry of Defence and Security of Nigeria, with whom did the citizens of Nigeria last express an interest in cooperation?",
+        "answers": [
+            "Citizen (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000240,
+        "question": "In which month did the Foreign Affairs of France last praise the Party Member of Togo?",
+        "answers": [
+            "2009-12"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000241,
+        "question": "When did South Africa start negotiations with the Ministry of Sudan?",
+        "answers": [
+            "2006-12-01"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000242,
+        "question": "In which year did the Businessperson of Turkey express an intention to negotiate with the Businessperson of Australia?",
+        "answers": [
+            "2005"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000243,
+        "question": "On 25 May 2006, who expressed the intention to engage in diplomatic cooperation with Vietnam?",
+        "answers": [
+            "Sissy Roth-Halvax"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000244,
+        "question": "Who made the women of Australia suffer from unconventional violence after April, 2009?",
+        "answers": [
+            "Citizen (Thailand)",
+            "Men (Argentina)",
+            "Citizen (Singapore)",
+            "Criminal (Australia)",
+            "Police (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000245,
+        "question": "Who was threatened by Catherine Ashton after 2012-12?",
+        "answers": [
+            "Military (Mali)",
+            "Thailand",
+            "Iran"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000246,
+        "question": "Who made the citizens of Brazil suffer from unconventional violence in 2006?",
+        "answers": [
+            "Citizen (Thailand)",
+            "Organized Crime (Brazil)",
+            "Armed Gang (Paraguay)",
+            "Criminal (Brazil)",
+            "People Associated with the Opposition (Brazil)",
+            "Armed Band (Brazil)",
+            "Alex Pereira"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000247,
+        "question": "Who used unconventional violence against the armed gang in the occupied Palestinian territories in August 2008?",
+        "answers": [
+            "Criminal (Palestinian Territory, Occupied)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000248,
+        "question": "After the South African police, who made the first request to the South African legislature?",
+        "answers": [
+            "Main Opposition (South Africa)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000249,
+        "question": "After the head of the Greek government, with whom did Abdel Fattah Al-Sisi first start negotiations?",
+        "answers": [
+            "Royal Administration (Saudi Arabia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000250,
+        "question": "Who did the police of Ukraine last appeal to before the lawmakers of Ukraine?",
+        "answers": [
+            "Head of Government (Ukraine)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000251,
+        "question": "Who last did the Presidential Press Service of Nigeria appeal for before the muslims of Nigeria?",
+        "answers": [
+            "Farm Worker (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000252,
+        "question": "After Romania, who was the first to express optimism about the citizens of Belarus?",
+        "answers": [
+            "Citizen (International)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000253,
+        "question": "Who used unconventional violence against the police in Malaysia after 1 April 2009?",
+        "answers": [
+            "Men (Malaysia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000254,
+        "question": "In which year did Jean-Claude Mailly ask the French government?",
+        "answers": [
+            "2012"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000255,
+        "question": "Could you tell me the exact month when the legislature of Pakistan first made a request to Rehman Malik?",
+        "answers": [
+            "2011-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000256,
+        "question": "Which country did Tanzania appeal to after October 2012?",
+        "answers": [
+            "Citizen (Tanzania)",
+            "Citizen (Mali)",
+            "Representatives (Tanzania)",
+            "Malawi"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000257,
+        "question": "Who was the last person to be praised by Seyoum Mesfin before the government of Italy?",
+        "answers": [
+            "Peacekeeping Troop (African Union)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000258,
+        "question": "After the Maldives, which country was the first to host the visit of United Nations Special Rapporteurs?",
+        "answers": [
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000259,
+        "question": "At what time did the media personnel of Thailand give a denunciation to the media personnel of International?",
+        "answers": [
+            "2015-08-26"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000260,
+        "question": "In which year did the Muslims of Nigeria want to participate in diplomatic cooperation with the citizens of Nigeria?",
+        "answers": [
+            "2011"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000261,
+        "question": "Who had a telephone conversation with Agence France-Presse first, after the Malaysian police?",
+        "answers": [
+            "Medical Personnel (Russia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000262,
+        "question": "On 11 January 2013, who made an appeal to the Nigerian Navy?",
+        "answers": [
+            "Bala Abdulkadir Mohammed"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000263,
+        "question": "Who was the last to be endorsed by Barack Obama before Radoslaw Sikorski?",
+        "answers": [
+            "Portugal"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000264,
+        "question": "Who negotiated with Abdel Fattah Al-Sisi in May 2015?",
+        "answers": [
+            "Head of Government (Cyprus)",
+            "Head of Government (Greece)",
+            "Royal Administration (Saudi Arabia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000265,
+        "question": "Before the Ministry of Hungary, who last was blamed by the Foreign Affairs of Israel?",
+        "answers": [
+            "Iran"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000266,
+        "question": "In November, 2008, who was on the phone with the medical staff of Australia?",
+        "answers": [
+            "Associated Press",
+            "Chris Evans"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000267,
+        "question": "After Abdullah Gul, with whom did the Royal Administration of Saudi Arabia make the first telephone call?",
+        "answers": [
+            "Ali Abdullah Saleh"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000268,
+        "question": "On 7 June 2011, who expressed an interest in working with Barack Obama?",
+        "answers": [
+            "Angela Merkel"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000269,
+        "question": "When did Francis Muthaura last support John Githongo?",
+        "answers": [
+            "2005-02-08"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000270,
+        "question": "Who was the last to suffer from the unconventional violence of the Criminal of Pokot before the Men of Kenya?",
+        "answers": [
+            "Police (Kenya)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000271,
+        "question": "Who negotiated with Shivshankar Menon on 21 July 2007?",
+        "answers": [
+            "Undersecretary (United States)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000272,
+        "question": "Which country first would want to negotiate with South Africa after Oluṣẹgun Ọbasanjọ did?",
+        "answers": [
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000273,
+        "question": "Who did the German head of government want to negotiate with after 28 April 2014?",
+        "answers": [
+            "Abdel Fattah Al-Sisi",
+            "Benjamin Netanyahu",
+            "Barack Obama",
+            "Business (Germany)",
+            "Alexis Tsipras",
+            "Iran",
+            "China",
+            "Angela Merkel"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000274,
+        "question": "Who would wish to visit Vietnam in Apr 9th, 2010?",
+        "answers": [
+            "Association of Southeast Asian Nations"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000275,
+        "question": "When did Slavko Linic accuse the police of Croatia?",
+        "answers": [
+            "2010-03-03"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000276,
+        "question": "Who did the Police of New Zealand request for before the year of 2008?",
+        "answers": [
+            "Children (New Zealand)",
+            "Muslim (New Zealand)",
+            "Police (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000277,
+        "question": "In which month did the Associated Press last denounce Mahmoud Ahmadinejad?",
+        "answers": [
+            "2006-12"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000278,
+        "question": "Who requested a meeting with Angela Merkel in the same year as Valdas Adamkus?",
+        "answers": [
+            "Abdullah Gül",
+            "Gerhard Schröder",
+            "Joschka Fischer",
+            "Head of Government (Germany)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000279,
+        "question": "After the year of 2007, who accused the Political Parties of Nepal?",
+        "answers": [
+            "Madhes",
+            "Prachanda"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000280,
+        "question": "When did Michael Sata last support the lawyer of Zambia?",
+        "answers": [
+            "2012-09-04"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000281,
+        "question": "When did Jaroslav Palas express the intention of the Communist Party of the Czech Republic to participate in diplomatic cooperation?",
+        "answers": [
+            "2008-11-10"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000282,
+        "question": "When did Macky Sall last wish to engage in diplomatic cooperation with Mohammed VI?",
+        "answers": [
+            "2013-03-15"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000283,
+        "question": "In Dec 30, 2008, who accused the citizens of Australia?",
+        "answers": [
+            "Police (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000284,
+        "question": "Who was the first to praise Klaus Johannis after the Romanian legislature?",
+        "answers": [
+            "Jens Stoltenberg"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000285,
+        "question": "Who rejected Viktor Orban on 15.08.2012?",
+        "answers": [
+            "Citizen (Hungary)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000286,
+        "question": "Who was the first to be attacked with small arms and light weapons by the men of South Africa after the citizens of Africa?",
+        "answers": [
+            "Police (South Africa)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000287,
+        "question": "Before February 2006, who suffered from the unconventional violence of the settlers of Israel?",
+        "answers": [
+            "Arab Israelis",
+            "Police (Israel)",
+            "Children (Palestinian Territory, Occupied)",
+            "Israeli Defense Forces"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000289,
+        "question": "Who did the Senate of Italy last praise before the Member of Legislative of Govt. Italy?",
+        "answers": [
+            "Government (Italy)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000290,
+        "question": "Before the Office of the United Nations High Commissioner for Human Rights, who wanted to negotiate with Prachanda?",
+        "answers": [
+            "Shivshankar Menon",
+            "Head of Government (Sri Lanka)",
+            "Richard Boucher",
+            "Ruling Parties (Nepal)",
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000291,
+        "question": "When did Shaukat Aziz visit the Ministry of Education of Pakistan?",
+        "answers": [
+            "2005-12-15"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000292,
+        "question": "After Yair Lapid, who was the first to be supported by Shimon Peres?",
+        "answers": [
+            "Head of Government (Belarus)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000293,
+        "question": "Who made an appeal to the House of Representatives of Indonesia before May 2006?",
+        "answers": [
+            "Police (Indonesia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000294,
+        "question": "Which country signed an agreement with Laos in 2011?",
+        "answers": [
+            "Vietnam",
+            "South Korea",
+            "China",
+            "Thailand"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000295,
+        "question": "Who was the last to blame the Police of Egypt before Human Rights Watch did?",
+        "answers": [
+            "Rights Activist (Egypt)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000296,
+        "question": "In Dec 24, 2009, who accused the citizens of Australia?",
+        "answers": [
+            "Police (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000297,
+        "question": "In May 2009, who asked for the media of India?",
+        "answers": [
+            "Court Judge (India)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000298,
+        "question": "In which year did the High Commission for Refugees express cooperation with Sudan?",
+        "answers": [
+            "2007"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000299,
+        "question": "In which month did Elizabeth II last express her intention to meet Julia Gillard?",
+        "answers": [
+            "2011-10"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000300,
+        "question": "At what time did Daniel Mitov announce his intention to meet Philip Hammond?",
+        "answers": [
+            "2015-01-14"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000301,
+        "question": "Who made the criminal of Sudan suffer from conventional military forces on 16 July 2007?",
+        "answers": [
+            "Police (Sudan)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000302,
+        "question": "In which month did the citizens of Greece criticise the citizens of Belgium?",
+        "answers": [
+            "2014-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000303,
+        "question": "Who was the last to condemn the rebel of Thailand before the villager of Thailand?",
+        "answers": [
+            "Citizen (Thailand)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000304,
+        "question": "Who was the last to visit Niger before Abdulsalami Alhaji Abubakar?",
+        "answers": [
+            "Agence France-Presse"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000305,
+        "question": "When did the Department of Labour and Employment of Australia last use conventional military force against the citizens of Australia?",
+        "answers": [
+            "2006-09-20"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000306,
+        "question": "Who was the first Thai media representative to express an intention to participate in diplomatic cooperation?",
+        "answers": [
+            "Citizen (Thailand)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000307,
+        "question": "When did Jorge del Castillo denounce the citizens of Venezuela?",
+        "answers": [
+            "2006-05-31"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000308,
+        "question": "When did Manuel Rosales express his intention to negotiate with the citizens of Venezuela?",
+        "answers": [
+            "2006-06-10"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000309,
+        "question": "To whom did the Governor of Kenya appeal after the Internal Affairs of Kenya?",
+        "answers": [
+            "Police (Kenya)",
+            "Women (Kenya)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000310,
+        "question": "Could you tell me the exact month when Farouk al-Sharaa negotiated with the Ministry of Iran?",
+        "answers": [
+            "2005-11"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000311,
+        "question": "In April 2011, who made a request to Ali Abdullah Saleh?",
+        "answers": [
+            "Yemen",
+            "Catherine Ashton",
+            "Kuwait",
+            "Opposition Coalition (Yemen)",
+            "United Arab Emirates",
+            "Qatar"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000312,
+        "question": "With whom did Georgios Papandreou express his intention to meet after 2011?",
+        "answers": [
+            "Citizen (Greece)",
+            "France",
+            "Other Authorities / Officials (Greece)",
+            "International Monetary Fund",
+            "City Mayor (Greece)",
+            "Antonis Samaras",
+            "Head of Government (Greece)",
+            "Head of Government (Qatar)",
+            "Herman Van Rompuy",
+            "Legislature (Greece)",
+            "Romania",
+            "Citizen (Belgium)",
+            "Anna Diamantopoulou",
+            "Indigenous People (Greece)",
+            "Christine Lagarde",
+            "Angela Merkel",
+            "New Democracy",
+            "Head of Government (Egypt)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000313,
+        "question": "In which month did the Council of Ministers of the United States of America sign an agreement with Volodymyr Khandohiy?",
+        "answers": [
+            "2009-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000314,
+        "question": "Who did the citizens of Uganda threaten after 20 April 2010?",
+        "answers": [
+            "Businessperson (Uganda)",
+            "Student (Kenya)",
+            "Democratic Party",
+            "Police (Uganda)",
+            "Indigenous People (Uganda)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000315,
+        "question": "Who expressed the intention to meet with Romania in 2006?",
+        "answers": [
+            "Yasar Yakis",
+            "A.P. Sharma",
+            "Karl Erjavec",
+            "Alexandr Vondra",
+            "Senate (Romania)",
+            "Cabinet / Council of Ministers / Advisors (Hungary)",
+            "Environment Department/Ministry (Romania)",
+            "Branko Crvenkovski",
+            "Central Intelligence Agency",
+            "Nabih Berri",
+            "Anguel Marin",
+            "Assemblies (Slovenia)",
+            "Roh Moo Hyun"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000316,
+        "question": "In which month did Vincent C. Siew appeal to South Korea?",
+        "answers": [
+            "2011-10"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000317,
+        "question": "After the men of the United States, who was the first to condemn the government of the occupied Palestinian territories?",
+        "answers": [
+            "al-Aqsa Martyrs' Brigades"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000318,
+        "question": "In which month did Henry Rotich sign formal agreements with Exim Bank?",
+        "answers": [
+            "2014-05"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000319,
+        "question": "Before Feb, 2007, with whom did the African Union sign an agreement?",
+        "answers": [
+            "Japan",
+            "Government (Italy)",
+            "Government (Sudan)",
+            "Sudan"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000320,
+        "question": "When did Nebojša Medojević last appeal to the Bosniak Party?",
+        "answers": [
+            "2010-04-13"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000321,
+        "question": "Who made a request to Tony Blair on 28 April 2007?",
+        "answers": [
+            "Citizen (United Kingdom)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000322,
+        "question": "In which year did Julie Bishop threaten the UN Security Council?",
+        "answers": [
+            "2014"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000323,
+        "question": "Which country was the last to host the South African visit before the Dominican Republic?",
+        "answers": [
+            "Angola"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000324,
+        "question": "Which was the last country with which Takahiro Yokomichi expressed an intention to meet?",
+        "answers": [
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000325,
+        "question": "Who did Catherine Ashton praise first after the International Court of Justice?",
+        "answers": [
+            "Iran"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000326,
+        "question": "Who did Alexis Tsipras praise after February 2015?",
+        "answers": [
+            "Citizen (Greece)",
+            "Archbishop (Albania)",
+            "France",
+            "Hellenic Armed Forces",
+            "Mahmoud Abbas",
+            "Head of Government (Greece)",
+            "Cabinet / Council of Ministers / Advisors (United States)",
+            "China",
+            "Angela Merkel",
+            "Werner Faymann"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000327,
+        "question": "Who expressed an interest in working with Cristina Fernández de Kirchner on 2 May 2013?",
+        "answers": [
+            "Women (Argentina)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000328,
+        "question": "In which year did Janez Jansa criticise the Italian government?",
+        "answers": [
+            "2006"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000329,
+        "question": "When did the Australian police make negative comments about Agence France-Presse?",
+        "answers": [
+            "2005-10-31"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000330,
+        "question": "After 28 May 2010, who was sentenced by the Indian judge?",
+        "answers": [
+            "Director General (India)",
+            "Head of Government (India)",
+            "Men (India)",
+            "Election Commission (India)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000331,
+        "question": "When did the lawyer of the United States first express his intention to meet with Yemen?",
+        "answers": [
+            "2005-08-27"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000332,
+        "question": "Who was the last to denounce Barack Obama before the German government?",
+        "answers": [
+            "Mahmoud Abbas"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000333,
+        "question": "Who was the last person the citizens of Denmark wanted to negotiate with before Daily Monitor?",
+        "answers": [
+            "Yuriy Yekhanurov"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000334,
+        "question": "Who accuse the citizens of Nigeria first after the Murderer of Nigeria did?",
+        "answers": [
+            "Head of Government (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000335,
+        "question": "Who did the head of government of Turkmenistan want to negotiate with last before the Organisation for Economic Cooperation and Development?",
+        "answers": [
+            "Iran"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000336,
+        "question": "Who used unconventional violence against the Croatian police in 2014?",
+        "answers": [
+            "Citizen (Croatia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000337,
+        "question": "In which year did Barack Obama last wish to engage in diplomatic cooperation with Ashraf Ghani Ahmadzai?",
+        "answers": [
+            "2015"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000338,
+        "question": "Which country signed an agreement with Angola on 9 June 2015?",
+        "answers": [
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000339,
+        "question": "When did the High Commission for Refugees praise the other authorities and officials of Libya?",
+        "answers": [
+            "2014-05-13"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000340,
+        "question": "Who was the last person to speak negatively about Sudan before Catherine Ashton?",
+        "answers": [
+            "Citizen (Sudan)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000341,
+        "question": "In what month did Shibu Soren ask the villager of India?",
+        "answers": [
+            "2014-04"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000342,
+        "question": "In which month did the Prime Minister of Bangladesh endorse the Military Personnel - Special of Bangladesh?",
+        "answers": [
+            "2006-03"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000343,
+        "question": "Who condemned the Internal Affairs of Kenya on 21 January 2015?",
+        "answers": [
+            "Uhuru Muigai Kenyatta"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000344,
+        "question": "Could you tell me the exact month when Nabih Berri made optimistic remarks about the military of Lebanon?",
+        "answers": [
+            "2008-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000345,
+        "question": "Who negotiated with Macky Sall on 28 June 2013?",
+        "answers": [
+            "Barack Obama"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000346,
+        "question": "At what time did the Head of Government of Burundi criticise the Lawyer/Attorney of Burundi?",
+        "answers": [
+            "2011-08-13"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000347,
+        "question": "Who made threats to the Australian police on 26 Feb 2014?",
+        "answers": [
+            "Citizen (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000348,
+        "question": "Who attacked the protester from India with small arms and light weapons on 17 September 2010?",
+        "answers": [
+            "Military Personnel - Special (India)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000349,
+        "question": "In which year did Mwai Kibaki last express his intention to negotiate with Jakaya Mrisho Kikwete?",
+        "answers": [
+            "2013"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000350,
+        "question": "Which country last spoke optimistically about the Association of Southeast Asian Nations?",
+        "answers": [
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000351,
+        "question": "In which month did the Hindu of Malaysia appeal to the Sharia Court of Malaysia?",
+        "answers": [
+            "2006-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000352,
+        "question": "When was the last time Viktor Orban visited Gazprom?",
+        "answers": [
+            "2012-05-17"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000353,
+        "question": "When did Mexico declare its intention to negotiate with the Saharawi people?",
+        "answers": [
+            "2014-01-15"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000354,
+        "question": "Who was praised by the Governor of Kenya before 15 December 2014?",
+        "answers": [
+            "Uhuru Muigai Kenyatta",
+            "Media (Kenya)",
+            "Media (Africa)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000355,
+        "question": "Who were the Muslims of the United Kingdom criticising before 7 February 2006?",
+        "answers": [
+            "Tony Blair",
+            "Citizen (United Kingdom)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000356,
+        "question": "When did Abhisit Vejjajiva last express his intention to meet with the citizens of International?",
+        "answers": [
+            "2009-03-31"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000357,
+        "question": "Who was the first to release people to the citizens of Croatia after the police of Bosnia and Herzegovina?",
+        "answers": [
+            "Večernji list"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000358,
+        "question": "Which country wanted to establish diplomatic cooperation with South Africa on 25 April 2006?",
+        "answers": [
+            "United Arab Emirates"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000359,
+        "question": "After the State Security Service, who did the other Nigerian authorities and officials blame first?",
+        "answers": [
+            "Citizen (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000360,
+        "question": "Which country expressed an interest in cooperation with Kazakhstan on 12 June 2010?",
+        "answers": [
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000361,
+        "question": "Who last did Robert Hill appeal for before the citizens of Australia?",
+        "answers": [
+            "UN Security Council"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000362,
+        "question": "Who visited Vietnam in 2010-11?",
+        "answers": [
+            "Abhisit Vejjajiva",
+            "Association of Southeast Asian Nations",
+            "Dmitry Anatolyevich Medvedev",
+            "Julia Gillard",
+            "Wen Jiabao",
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000363,
+        "question": "When did Christiana Anyanwu first accuse the Government of Nigeria?",
+        "answers": [
+            "2013-11-05"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000364,
+        "question": "In which month did Sule Lamido make a request to the Nigerian government?",
+        "answers": [
+            "2011-10"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000365,
+        "question": "Which country made pessimistic remarks about the United States Congress before May 2007?",
+        "answers": [
+            "China",
+            "Mexico"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000366,
+        "question": "In February 2015, who investigated the citizens of Australia?",
+        "answers": [
+            "Police (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000367,
+        "question": "After South Africa, with whom did Macky Sall first announce his intention to meet?",
+        "answers": [
+            "Assemblies (France)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000368,
+        "question": "After Okada Katsuya, with whom did the Foreign Minister of Singapore wish to meet?",
+        "answers": [
+            "Iran",
+            "Abdullah Gül",
+            "Congress (United States)",
+            "Citizen (Singapore)",
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000369,
+        "question": "After Muhammadu Buhari, who would want to negotiate first with the Council of Advisors to the Cabinet of the United States?",
+        "answers": [
+            "Federica Mogherini"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000370,
+        "question": "Who threatened the women of Australia in October, 2009?",
+        "answers": [
+            "Criminal (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000371,
+        "question": "Who wanted to meet Raúl Castro in May 2008?",
+        "answers": [
+            "Evo Morales",
+            "Barack Obama"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000372,
+        "question": "Who expressed the intention to meet with South Africa on 27 December 2005?",
+        "answers": [
+            "Evo Morales"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000373,
+        "question": "At what time did the judge of the Court of Justice of the United Kingdom give a condemnation to Northern Ireland?",
+        "answers": [
+            "2006-11-21"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000374,
+        "question": "After the Media of Romania, who was declined by the Legislature of Romania first?",
+        "answers": [
+            "Lawyer/Attorney (Romania)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000375,
+        "question": "Before Barack Obama, who was the last person to threaten Pervez Musharraf?",
+        "answers": [
+            "Islamic Preacher (Pakistan)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000376,
+        "question": "After the year 2010, with whom did Dmitry Anatolyevich Medvedev sign formal agreements?",
+        "answers": [
+            "Republic of South Ossetia",
+            "Julia Gillard",
+            "Roza Otunbayeva",
+            "Head of Government (Ukraine)",
+            "Head of Government (South Korea)",
+            "Barack Obama",
+            "Yoshihiko Noda",
+            "Raúl Castro",
+            "Jens Stoltenberg",
+            "Cabinet / Council of Ministers / Advisors (United States)",
+            "Angela Merkel",
+            "Sergey Bagapsh"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000377,
+        "question": "In December 2005, who wanted to participate in diplomatic cooperation with the citizens of Hungary?",
+        "answers": [
+            "Ivan Gasparovic"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000378,
+        "question": "Who visited Vietnam on 12 September 2007?",
+        "answers": [
+            "Council for National Security"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000379,
+        "question": "Who used conventional military force against Niger in 2015?",
+        "answers": [
+            "Timor-Leste",
+            "Military (Niger)",
+            "Boko Haram",
+            "African Union"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000380,
+        "question": "Before the Central Bank of Australia, who condemned the People Associated with the Opposition of Australia?",
+        "answers": [
+            "Julia Gillard",
+            "Citizen (Australia)",
+            "Peter Costello",
+            "Police (Australia)",
+            "Member of Parliament (Australia)",
+            "Barack Obama"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000381,
+        "question": "In which month did John Garang accuse the Government of Sudan?",
+        "answers": [
+            "2005-04"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000382,
+        "question": "At what time did the employees of Bangladesh use conventional military force against the Military Personnel - Special of Bangladesh?",
+        "answers": [
+            "2005-10-19"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000383,
+        "question": "Before August 2009, with whom did the Ministry of Public Security of Vietnam sign an agreement?",
+        "answers": [
+            "Chris Evans",
+            "Domestic Affairs (Germany)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000384,
+        "question": "When did the citizens of the International denounce the military ruler of Myanmar?",
+        "answers": [
+            "2008-05-17"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000385,
+        "question": "With which country did the men from the United Kingdom last wish to meet?",
+        "answers": [
+            "Mexico"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000386,
+        "question": "On 26 June 2009, who wanted to negotiate with Wen Jiabao?",
+        "answers": [
+            "Abdullah Gül",
+            "Abhisit Vejjajiva"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000387,
+        "question": "When did the South African National Defence Force first visit Tanzania?",
+        "answers": [
+            "2011-09-12"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000388,
+        "question": "On 23 October 2013, which country formally signed an agreement with Sudan?",
+        "answers": [
+            "South Sudan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000389,
+        "question": "Who first wanted to negotiate with the Legislature of Romania?",
+        "answers": [
+            "Senate (Romania)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000390,
+        "question": "Against whom did the Russian military last use conventional military force before the terrorist leader of Russia?",
+        "answers": [
+            "Armed Rebel (Russia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000391,
+        "question": "In what month did the Armed Rebel of Russia sign formal agreements with the Government of Sudan?",
+        "answers": [
+            "2005-02"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000392,
+        "question": "Could you tell me the exact month when the Civic Group of Kenya first made an appeal to Barack Obama?",
+        "answers": [
+            "2015-07"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000393,
+        "question": "In which month did Alhaji Lai Mohammed blame Nigerian Television Authority?",
+        "answers": [
+            "2015-11"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000394,
+        "question": "Who investigated Human Rights Watch in 2007?",
+        "answers": [
+            "Military Personnel - Special (Bangladesh)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000395,
+        "question": "Who formally signed an agreement with Gazprom after Evo Morales?",
+        "answers": [
+            "Iran",
+            "State Oil Company of Azerbaijan Republic",
+            "Business (South Korea)",
+            "China",
+            "AB Lithuanian Gas",
+            "Japan",
+            "Rafael Ramírez"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000396,
+        "question": "Who wanted to negotiate with the German businessman on 28 March 2014?",
+        "answers": [
+            "Xi Jinping"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000397,
+        "question": "In which month did the Brazilian Ministry last denounce the other Brazilian authorities and officials?",
+        "answers": [
+            "2012-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000398,
+        "question": "After the Council of Ministers of the United States, which country first expressed its intention to meet with Nuri al-Maliki?",
+        "answers": [
+            "Iran"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000399,
+        "question": "Who was the first to negotiate with Angela Merkel after Nabih Berri?",
+        "answers": [
+            "Mahmoud Abbas"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000400,
+        "question": "When did the Governor of India last condemn the Aam Aadmi Party?",
+        "answers": [
+            "2015-09-11"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000401,
+        "question": "Who paid a visit to Herman Van Rompuy in March 2014?",
+        "answers": [
+            "Barack Obama"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000402,
+        "question": "Who was the first to want to negotiate with Romania after Karl Erjavec?",
+        "answers": [
+            "Anguel Marin"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000403,
+        "question": "Who supported Abdoulaye Wade after the Democratic Force?",
+        "answers": [
+            "Macky Sall",
+            "South Korea"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000404,
+        "question": "Which was the last country to be denounced by Mahmoud Abbas in 2007?",
+        "answers": [
+            "Qatar"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000405,
+        "question": "When did the employees of Bangladesh ask the citizens of Bangladesh?",
+        "answers": [
+            "2005-02-26"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000406,
+        "question": "Who visited Daniel Ortega in 2007?",
+        "answers": [
+            "Mahmoud Ahmadinejad",
+            "Laos"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000407,
+        "question": "When did the South Korean newspaper first condemn Roh Moo Hyun?",
+        "answers": [
+            "2006-07-06"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000408,
+        "question": "Who did Human Rights Watch last condemn before Pussy Riot?",
+        "answers": [
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000409,
+        "question": "After 25 August 2014, who hosted the visit of Kyriakos Gerontopoulos?",
+        "answers": [
+            "Head of Government (Greece)",
+            "Romania"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000410,
+        "question": "To whom did the State Security Service last make a request before the member of the Legislative Assembly of the Government of Nigeria?",
+        "answers": [
+            "Citizen (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000411,
+        "question": "Who made a request to the citizens of Australia in 2010?",
+        "answers": [
+            "Julia Gillard",
+            "Mike Rann",
+            "Cabinet / Council of Ministers / Advisors (Australia)",
+            "Citizen (United Kingdom)",
+            "Cabinet / Council of Ministers / Advisors (United States)",
+            "Lawyer/Attorney (Australia)",
+            "Labor and Employment Ministry (Australia)",
+            "Chris Evans",
+            "Businessperson (Australia)",
+            "Liberal National Party",
+            "Medical Personnel (Australia)",
+            "Election Commission (Australia)",
+            "Media Personnel (Australia)",
+            "John Faulkner",
+            "Police (Australia)",
+            "Member of Parliament (Australia)",
+            "People Associated with the Opposition (Australia)",
+            "City Mayor (Australia)",
+            "Economist (Australia)",
+            "Mike Ferguson"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000412,
+        "question": "To whom did the UN Security Council make its first appeal in 2006?",
+        "answers": [
+            "Government (Haiti)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000413,
+        "question": "In which month did Ante Kotromanović praise Kazakhstan?",
+        "answers": [
+            "2015-05"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000414,
+        "question": "Before the Public Prosecutor of Brazil, who last investigated the Criminal of Brazil?",
+        "answers": [
+            "Other Authorities / Officials (Brazil)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000415,
+        "question": "Who made optimistic remarks about Barack Obama on 12 February 2013?",
+        "answers": [
+            "Shimon Peres"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000416,
+        "question": "In which month did Shaukat Aziz release people to the refugees of Afghanistan?",
+        "answers": [
+            "2005-01"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000417,
+        "question": "In which month did the Tamil of Sri Lanka request the Ministry of Sri Lanka?",
+        "answers": [
+            "2006-08"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000418,
+        "question": "Who appealed for the citizens of Nigeria in August 2007?",
+        "answers": [
+            "Bukola Saraki",
+            "Head of Government (Nigeria)",
+            "Royal Administration (Nigeria)",
+            "Other Authorities / Officials (Nigeria)",
+            "Jonah David Jang",
+            "Muslim (Nigeria)",
+            "Umaru Musa Yar'Adua",
+            "Oluṣẹgun Ọbasanjọ"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000419,
+        "question": "Who accused Sani Abacha in June 13, 2008?",
+        "answers": [
+            "Citizen (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000420,
+        "question": "Which country signed an agreement with South Korea in February 2007?",
+        "answers": [
+            "China",
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000421,
+        "question": "After the Department of Environment of the Philippines, who was the first to endorse the Mayor of the Philippines?",
+        "answers": [
+            "Employee (Philippines)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000422,
+        "question": "Before Mar 25th, 2012, who did the Ministry of Tanzania request for?",
+        "answers": [
+            "Legislature (Tanzania)",
+            "Citizen (Tanzania)",
+            "Jakaya Mrisho Kikwete",
+            "Civil Servant (Tanzania)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000423,
+        "question": "On 7 November 2008, which country signed formal agreements with Vietnam?",
+        "answers": [
+            "Cambodia",
+            "Laos"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000424,
+        "question": "In which month did South Africa host the visit of Elmar Mammadyarov?",
+        "answers": [
+            "2014-02"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000425,
+        "question": "When did the National Security Advisor of Iraq have a telephone conversation with the Associated Press?",
+        "answers": [
+            "2005-03-22"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000426,
+        "question": "In what month did Australian citizens first support Dr Mohamed Haneef?",
+        "answers": [
+            "2007-07"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000427,
+        "question": "Who visited Barack Obama in 2013-08?",
+        "answers": [
+            "Antonis Samaras"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000428,
+        "question": "In which month did Antonis Samaras negotiate with Mario Monti?",
+        "answers": [
+            "2012-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000429,
+        "question": "Who was the first to reject the citizens of Thailand after the National United Front for Democracy Against Dictatorship?",
+        "answers": [
+            "Protester (Thailand)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000430,
+        "question": "Who praised Ma Ying Jeou in July 2014?",
+        "answers": [
+            "Salvador Sánchez Cerén"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000431,
+        "question": "Who was the first to praise Wen Jiabao after Dmitry Anatolyevich Medvedev?",
+        "answers": [
+            "Barack Obama"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000432,
+        "question": "Who was the first to blame the newspaper of the United Kingdom?",
+        "answers": [
+            "Citizen (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000433,
+        "question": "After Angela Merkel, to whom did the Lawyer/Attorney of Germany first appeal?",
+        "answers": [
+            "Children (Germany)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000434,
+        "question": "In which year did Klaus Johannis make a request to the Lawyer/Attorney of Romania?",
+        "answers": [
+            "2015"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000435,
+        "question": "In which month did Barack Obama last negotiate with Macky Sall?",
+        "answers": [
+            "2013-06"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000436,
+        "question": "Who was the first to reject Mahmoud Abbas after Barack Obama did?",
+        "answers": [
+            "Benjamin Netanyahu"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000437,
+        "question": "Who did Tony Blair give the condemnation to last before the muslims of United Kingdom?",
+        "answers": [
+            "Court Judge (United Kingdom)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000438,
+        "question": "When did Oxford University express its intention to meet with the scholar of the United States?",
+        "answers": [
+            "2010-04-09"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000439,
+        "question": "Which country praised the UN Security Council on 14 April 2005?",
+        "answers": [
+            "China"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000441,
+        "question": "Who gave a criticism to William Ruto in August 2013?",
+        "answers": [
+            "Governor (Kenya)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000442,
+        "question": "Who hosted the visit of the Foreign Minister of Portugal in the same year of Kazakhstan?",
+        "answers": [
+            "Abdullah Gül",
+            "South Korea"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000443,
+        "question": "Who was the first, after Xi Jinping, to want to negotiate with the citizens of North Korea?",
+        "answers": [
+            "Korean Confederation of Trade Unions"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000444,
+        "question": "Who was the first to criticise Muhammadu Buhari after the Nigerian clergy?",
+        "answers": [
+            "Citizen (Nigeria)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000445,
+        "question": "Who was the last to visit South Korea before the lawyer of the United States?",
+        "answers": [
+            "Ministry (Iran)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000446,
+        "question": "Who praised the Congress of Argentina before 23 August 2012?",
+        "answers": [
+            "Cristina Fernández de Kirchner",
+            "Media (Argentina)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000447,
+        "question": "On 10 Aug 2010, which country announced its intention to cooperate with the Cambodian military?",
+        "answers": [
+            "Thailand"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000448,
+        "question": "In which year did the Grand National Party condemn Chung Dong-young?",
+        "answers": [
+            "2006"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000449,
+        "question": "After Ivan Gasparovic, who expressed the intention to cooperate with Mikulas Dzurinda?",
+        "answers": [
+            "Wen Jiabao",
+            "Pavol Hrusovský",
+            "Lubomír Galko",
+            "Citizen (Hungary)",
+            "Bishop (Slovakia)",
+            "Béla Bugár",
+            "Gerhard Schröder"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000450,
+        "question": "Who expressed the intention to negotiate with the political parties of Nepal after 2005?",
+        "answers": [
+            "Jack McConnell",
+            "Bhutan",
+            "Election Commission (Nepal)",
+            "Richard Boucher",
+            "China",
+            "Prachanda"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000451,
+        "question": "In which year did Arseniy Yatsenyuk last express his intention to meet Angela Merkel?",
+        "answers": [
+            "2015"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000452,
+        "question": "When did Sali Berisha last express cooperation with Hashim Thaçi?",
+        "answers": [
+            "2009-02-17"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000453,
+        "question": "Who wanted to negotiate with Eritrea in August 2006?",
+        "answers": [
+            "Yemen",
+            "Citizen (Africa)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000454,
+        "question": "When did Kemal Unakitan express his intention to meet José Ángel Gurría?",
+        "answers": [
+            "2006-10-18"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000455,
+        "question": "Which country received the Joint Chiefs of Staff of United States's visit from the Joint Chiefs of Staff of United States first?",
+        "answers": [
+            "Iraq"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000456,
+        "question": "Who were the first Australians to denounce after David Bartlett?",
+        "answers": [
+            "Businessperson (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000457,
+        "question": "Who did the Party Member of Belarus make an appeal to after Oct 14th, 2007?",
+        "answers": [
+            "Citizen (Belarus)",
+            "Election Commission (Belarus)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000458,
+        "question": "Who denounced the Ministry of Belarus in March 2006?",
+        "answers": [
+            "Legislature (Belarus)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000459,
+        "question": "Who attacked the children of Belgium with small arms and light weapons on 8 December 2008?",
+        "answers": [
+            "Police (Belgium)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000460,
+        "question": "Who made the criminal of Tanzania suffer from conventional military forces in 2010?",
+        "answers": [
+            "Police (Tanzania)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000461,
+        "question": "In which month did United Russia want to participate in diplomatic cooperation with the Russian military?",
+        "answers": [
+            "2006-01"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000462,
+        "question": "In which month did Gerhard Schröder make his first pessimistic remarks about Angela Merkel?",
+        "answers": [
+            "2005-09"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000463,
+        "question": "Who did Shaukat Aziz want to meet in the same month as Gerhard Schröder?",
+        "answers": [
+            "Kazakhstan",
+            "Businessperson (Germany)",
+            "Citizen (International)",
+            "Company - Owner or Operator (Italy)",
+            "Japan",
+            "Iraq"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000464,
+        "question": "When did the Bolivarian National Guard last use conventional military force against the citizens of Venezuela?",
+        "answers": [
+            "2015-08-25"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000465,
+        "question": "In which year did the Indian industry sign an agreement with the Indian Prime Minister?",
+        "answers": [
+            "2005"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000466,
+        "question": "After 11 September 2010, with whom did Sheikh Hamad bin Khalifa al-Thani speak by telephone?",
+        "answers": [
+            "Ali Abdullah Saleh"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000467,
+        "question": "In 2010, who wanted to participate in diplomatic cooperation with the Labour Party of the United Kingdom?",
+        "answers": [
+            "Tony Blair"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000468,
+        "question": "In which year did the people associated with the French opposition last express their intention to negotiate with the French government?",
+        "answers": [
+            "2013"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000469,
+        "question": "Before Grand Duke Henri, who last supported Cape Verde?",
+        "answers": [
+            "Wang Yi"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000470,
+        "question": "Which country formally signed an agreement with the Association of Southeast Asian Nations in November 2014?",
+        "answers": [
+            "China",
+            "South Korea",
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000471,
+        "question": "In which year did the party member of Sri Lanka appeal to the member of the Sri Lankan judiciary?",
+        "answers": [
+            "2005"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000472,
+        "question": "With whom did the Ministry of Tanzania last express an interest in cooperation before the Legislature of Tanzania?",
+        "answers": [
+            "Citizen (Tanzania)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000473,
+        "question": "After the Lawyer/Attorney of Australia, to whom did Campbell Newman first address the criticism?",
+        "answers": [
+            "Criminal (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000474,
+        "question": "With whom did Henry M. Paulson want to negotiate last before Igor Ivanovich Shuvalov?",
+        "answers": [
+            "European Central Bank"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000475,
+        "question": "In what year did Uhuru Muigai Kenyatta last appeal to the prisoner of South Sudan?",
+        "answers": [
+            "2014"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000476,
+        "question": "Who used unconventional force against the Sudan People's Liberation Army after the citizens of Uganda?",
+        "answers": [
+            "Resistance Movement (Uganda)",
+            "Military (South Sudan)",
+            "Armed Band (South Sudan)",
+            "Children (Sudan)",
+            "South Sudan",
+            "Citizen (Sudan)",
+            "Children (South Sudan)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000477,
+        "question": "Against whom did the Moro National Liberation Front first use conventional military force in 2005?",
+        "answers": [
+            "Military (Philippines)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000478,
+        "question": "Who visited Angola in the same month as the head of government of Chad?",
+        "answers": [
+            "Cabinet / Council of Ministers / Advisors (United States)",
+            "Barack Obama"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal_multi",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000479,
+        "question": "In which year did the party member of the United Kingdom last express his intention to cooperate with the children of the United Kingdom?",
+        "answers": [
+            "2011"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000480,
+        "question": "When did the citizens of Denmark denounce the citizens of Sudan?",
+        "answers": [
+            "2009-12-19"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000481,
+        "question": "In what year did the Business of Jordan sign an agreement with the Ministry of Jordan?",
+        "answers": [
+            "2008"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000482,
+        "question": "Who first used conventional military force against the people of the Philippines after Abu Sayyaf?",
+        "answers": [
+            "Police (Philippines)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000483,
+        "question": "Who negotiated with Eric Chu on 14 November 2015?",
+        "answers": [
+            "Kuomintang"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000484,
+        "question": "Which year did Benazir Bhutto first appeal the Media Personnel of International?",
+        "answers": [
+            "2008"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000485,
+        "question": "In what year did Barack Obama last threaten South Africa?",
+        "answers": [
+            "2015"
+        ],
+        "answer_type": "time",
+        "time_level": "year",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000486,
+        "question": "When did the presidential family of Peru last criticise the head of government of Peru?",
+        "answers": [
+            "2006-03-29"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000487,
+        "question": "After the human rights activist of Azerbaijan, who first appealed to the International Governmental Organisations?",
+        "answers": [
+            "Protester (Afghanistan)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000488,
+        "question": "Who asked for international media personnel in September 2010?",
+        "answers": [
+            "Iran",
+            "Ministry (Afghanistan)"
+        ],
+        "answer_type": "entity",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000489,
+        "question": "Who wanted to negotiate with the Cabinet Council of Ministers Advisors of the United States in 2006?",
+        "answers": [
+            "Evo Morales",
+            "Winston Peters",
+            "Mahmoud Abbas",
+            "Foreign Affairs (South Korea)",
+            "Tony Blair",
+            "Javier Solana"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000490,
+        "question": "When did the media personnel of Iran make optimistic comments about the government of France?",
+        "answers": [
+            "2012-05-08"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000491,
+        "question": "Who last asked for the International Court of Justice before the Prime Minister of Ukraine did?",
+        "answers": [
+            "Arseniy Yatsenyuk"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000492,
+        "question": "When was the last time Guy Scott accused Hakainde Hichilema?",
+        "answers": [
+            "2014-08-18"
+        ],
+        "answer_type": "time",
+        "time_level": "day",
+        "qtype": "first_last",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000493,
+        "question": "After Said Barkat, who was the first to praise Yemen?",
+        "answers": [
+            "Shaukat Aziz"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000494,
+        "question": "In which month did the militant of the Middle East threaten the indigenous people of the Middle East?",
+        "answers": [
+            "2006-02"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000495,
+        "question": "After the leader of Chile, with whom did Dmitry Anatolyevich Medvedev first sign a formal agreement?",
+        "answers": [
+            "Barack Obama"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "after_first",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000496,
+        "question": "Who made the last appeal to Abdullah Gül before Gurbanguly Berdymukhammedov?",
+        "answers": [
+            "Head of Government (Turkmenistan)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_last",
+        "qlabel": "Multiple"
+    },
+    {
+        "quid": 1000497,
+        "question": "In which month did Audu Innocent Ogbeh condemn the citizens of Nigeria?",
+        "answers": [
+            "2015-12"
+        ],
+        "answer_type": "time",
+        "time_level": "month",
+        "qtype": "equal",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000498,
+        "question": "After 10 September 2007, who did the criminal of Australia attack with small arms and light weapons?",
+        "answers": [
+            "Police (Australia)",
+            "Citizen (Australia)"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000499,
+        "question": "Before the Green Party of South Korea, who wanted to negotiate with the Foreign Ministry of South Korea?",
+        "answers": [
+            "Government Official (Japan)",
+            "Envoy (France)",
+            "South Korea",
+            "Wang Yi",
+            "Cabinet / Council of Ministers / Advisors (United States)",
+            "China",
+            "Head of Government (South Korea)",
+            "Lee Myung Bak",
+            "Cabinet / Council of Ministers / Advisors (South Korea)",
+            "Japan"
+        ],
+        "answer_type": "entity",
+        "time_level": "day",
+        "qtype": "before_after",
+        "qlabel": "Single"
+    },
+    {
+        "quid": 1000500,
+        "question": "Who made a request to the citizens of Thailand in 2013?",
+        "answers": [
+            "Student (Thailand)",
+            "Sondhi Limthongkul",
+            "Protester (Thailand)",
+            "Abhisit Vejjajiva",
+            "Governor (Thailand)",
+            "Military Personnel (Thailand)",
+            "Royal Thai Navy",
+            "Member of Parliament (Thailand)",
+            "Thailand",
+            "Department of Geologic Survey and its Mineral Exploration (Thailand)",
+            "Media Personnel (Thailand)",
+            "Insurgent (Thailand)"
+        ],
+        "answer_type": "entity",
+        "time_level": "year",
+        "qtype": "equal",
+        "qlabel": "Single"
+    }
+]
