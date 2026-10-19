@@ -2,7 +2,7 @@
 
 Evaluate the supplied **497-question** dataset using any OpenAI-compatible chat endpoint (Groq, OpenAI, Ollama, or another compatible provider). Python 3.10+; no third-party packages required.
 
-The uploaded dataset is kept out of this public repository. Copy your uploaded `train_test_dataset500(8).json` to `data/questions.json` before running.
+The uploaded `train_test_dataset500(9).json` is included as `data/questions.json` (497 questions). The benchmark uses this path by default; no manual dataset copy is needed.
 
 ## Windows / Anaconda quick start
 
