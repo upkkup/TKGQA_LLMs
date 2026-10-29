@@ -24,7 +24,7 @@ class TemplateTests(unittest.TestCase):
             schema={"actor_predicate": "https://example.org/p/actor"},
         )
         self.assertIn("https://example.org/p/actor", query)
-        self.assertIn(r'A \"quoted\" actor', query)
+        self.assertIn(r'a \"quoted\" actor', query)
         self.assertIn('STRSTARTS(STR(?date), "2012")', query)
 
     def test_question_to_sparql_returns_template_and_query(self):
