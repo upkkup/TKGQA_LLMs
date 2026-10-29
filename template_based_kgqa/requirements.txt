@@ -1,0 +1,2 @@
+torch>=2.2
+rdflib>=7.0
